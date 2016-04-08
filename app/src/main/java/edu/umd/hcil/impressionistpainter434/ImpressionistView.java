@@ -45,7 +45,7 @@ public class ImpressionistView extends View {
 
     private int _alpha = 150;
     private int _defaultRadius = 10;
-    private int offset = 15;
+    private int offset = 25;
     private Point _lastPoint = null;
     private long _lastPointTime = -1;
     private boolean _useMotionSpeedForBrushStrokeSize = true;
@@ -197,7 +197,7 @@ public class ImpressionistView extends View {
         }
 
         return result;
-        
+
     }
 
 
