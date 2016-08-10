@@ -4,6 +4,10 @@ What is it?
 -----------
 The CMSC434ImpressionistPainter is an application that allows a user to draw an impressionist representation of a selected image. The image is selected from your device's picture gallery. The selected image appears on the left half of the screen, while an open canvas is directly to the right. The user can draw using 3 different brush types: Circle, Square, and Line. Once they are satisfied they can save their drawing into the picture gallery. The user can also ask for a rating of their drawing. A score will be assessed out of 10 based on how similar the drawing is to the original image. Lastly, one can clear the canvas and start drawing again or load another photo.
 
+Demonstration
+-------------
+https://www.youtube.com/watch?v=GFc2KRLrj1Q
+
 Installation
 ------------
 One can issue a pull request to grab the entire repo. The repository is simply the folder as it would exist in the 
