@@ -6,7 +6,7 @@ The CMSC434ImpressionistPainter is an application that allows a user to draw an 
 
 Demonstration
 -------------
-https://www.youtube.com/watch?v=GFc2KRLrj1Q
+[![Demonstration](https://http://imgur.com/a/pDoQZ)](https://www.youtube.com/watch?v=GFc2KRLrj1Q)
 
 Installation
 ------------
